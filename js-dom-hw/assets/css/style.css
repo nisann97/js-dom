@@ -1,0 +1,31 @@
+body{
+    background-color:black
+
+}
+
+
+body.active{
+    background-color: yellow;
+}
+
+
+
+.fa-regular{
+    font-size: 100px;
+    margin-top: 10%;
+    margin-left: 50%;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+}
+
+ul  .fa-solid{
+    position: absolute;
+    font-size: 46px;
+    text-align: end;
+    color: red;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    cursor: pointer;
+}
